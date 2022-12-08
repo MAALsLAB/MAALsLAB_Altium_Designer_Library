@@ -1,2 +1,3 @@
-# MAALsLAB_Altium_Designer_Library
- Altium Designer Compoenent Library
+# MAAL's LAB Altium Designer Library
+
+Altium Designer Compoenent Library
